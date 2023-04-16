@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-15T23:56:26 IST" name="MySuite2" finished-at="2023-04-15T23:56:26 IST" duration-ms="51">
+    <groups>
+      <group name="advanced">
+        <method signature="TestOne.testTempExample()[pri:1, instance:TestOne@6379eb]" name="testTempExample" class="TestOne"/>
+      </group> <!-- advanced -->
+      <group name="basic">
+        <method signature="TestOne.testTempExample()[pri:1, instance:TestOne@6379eb]" name="testTempExample" class="TestOne"/>
+        <method signature="TestOne.testOneExample()[pri:2, instance:TestOne@6379eb]" name="testOneExample" class="TestOne"/>
+      </group> <!-- basic -->
+    </groups>
+    <test started-at="2023-04-15T23:56:26 IST" name="MyTest2" finished-at="2023-04-15T23:56:26 IST" duration-ms="51">
+      <class name="TestOne">
+        <test-method signature="testTempExample()[pri:1, instance:TestOne@6379eb]" started-at="2023-04-15T23:56:26 IST" name="testTempExample" finished-at="2023-04-15T23:56:26 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTempExample -->
+        <test-method signature="testOneExample()[pri:2, instance:TestOne@6379eb]" started-at="2023-04-15T23:56:26 IST" name="testOneExample" finished-at="2023-04-15T23:56:26 IST" depends-on-methods="TestOne.testTempExample" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOneExample -->
+      </class> <!-- TestOne -->
+    </test> <!-- MyTest2 -->
+  </suite> <!-- MySuite2 -->
+</testng-results>

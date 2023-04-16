@@ -1,0 +1,9 @@
+package Cabstraction_abstractClass.Example2;
+
+public class FlourMill extends ProfitCalculate
+{
+	@Override
+	public double profitM(double sellingPrice, double costPrice) {
+		return (sellingPrice-costPrice);
+	}
+}

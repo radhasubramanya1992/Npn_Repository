@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-15T21:32:07 IST" name="Default suite" finished-at="2023-04-15T21:32:44 IST" duration-ms="36638">
+    <groups>
+    </groups>
+    <test started-at="2023-04-15T21:32:07 IST" name="Default test" finished-at="2023-04-15T21:32:44 IST" duration-ms="36638">
+      <class name="TestBMI_A">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestBMI_A@4135c3b]" started-at="2023-04-15T21:32:07 IST" name="setUp" finished-at="2023-04-15T21:32:12 IST" duration-ms="4485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testBMI(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestBMI_A@4135c3b]" started-at="2023-04-15T21:32:13 IST" name="testBMI" data-provider="myDataProvider" finished-at="2023-04-15T21:32:23 IST" duration-ms="10488" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[178]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[78]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[That you are healthy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBMI -->
+        <test-method signature="testBMI(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestBMI_A@4135c3b]" started-at="2023-04-15T21:32:23 IST" name="testBMI" data-provider="myDataProvider" finished-at="2023-04-15T21:32:33 IST" duration-ms="10304" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[150]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[78]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Overweight]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBMI -->
+        <test-method signature="testBMI(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestBMI_A@4135c3b]" started-at="2023-04-15T21:32:33 IST" name="testBMI" data-provider="myDataProvider" finished-at="2023-04-15T21:32:44 IST" duration-ms="10320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[150]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Underweight]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBMI -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestBMI_A@4135c3b]" started-at="2023-04-15T21:32:44 IST" name="tearDown" finished-at="2023-04-15T21:32:44 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestBMI_A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
