@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;npn_Selenium_DataDriver_Framework/src/test/java/ReadTestData.java&apos; to &apos;ReadTextData.java&apos;" description="Rename resource &apos;ReadTestData.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/ReadTestData.java" name="ReadTextData.java" stamp="1680415684271" updateReferences="true"/>
+</session>

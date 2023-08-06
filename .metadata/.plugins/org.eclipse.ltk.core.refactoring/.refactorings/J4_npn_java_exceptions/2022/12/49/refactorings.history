@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;java_exceptions/src/main/java/java_exceptions/CheckExceptionExample.java&apos; to &apos;CheckedExceptionExample.java&apos;" description="Rename resource &apos;CheckExceptionExample.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/java_exceptions/CheckExceptionExample.java" name="CheckedExceptionExample.java" stamp="1669868808545" updateReferences="true"/>
+</session>

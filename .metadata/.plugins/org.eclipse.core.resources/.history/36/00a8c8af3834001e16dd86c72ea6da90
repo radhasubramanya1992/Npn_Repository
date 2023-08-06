@@ -1,0 +1,11 @@
+if the project doesnt work, 
+Go to - 
+
+FirstTestRunner.java
+
+and remove line -
+
+plugin= {"pretty","html:HTML-Reprots"},
+
+
+because in new version, reports will be stored in cucumber cloud by default and no need of plugin

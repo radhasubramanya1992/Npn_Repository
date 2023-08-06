@@ -1,0 +1,25 @@
+package npn_API_Rest_Assured.get;
+
+import static io.restassured.RestAssured.*;
+
+import org.testng.annotations.Test;
+
+import io.restassured.http.ContentType;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+
+public class SecondExample 
+{
+@Test
+public void testTwo()
+{
+	baseURI = "https://reqres.in/";
+	basePath = "/api/users/";
+	
+	RequestSpecification given = given().accept(ContentType.JSON);
+	
+	Response response = given.get("2");
+	
+	System.out.println("The response is:: \n"+response.asPrettyString());
+}
+}

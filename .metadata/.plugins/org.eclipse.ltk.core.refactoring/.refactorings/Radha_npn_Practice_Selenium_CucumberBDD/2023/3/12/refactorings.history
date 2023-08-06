@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Radha_npn_Practice_Selenium_CucumberBDD/src/test/java/features/TestSeleniumFeature&apos; to &apos;TestSeleniumFeature.feature&apos;" description="Rename resource &apos;TestSeleniumFeature&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/features/TestSeleniumFeature" name="TestSeleniumFeature.feature" stamp="1679325864723" updateReferences="true"/>
+</session>

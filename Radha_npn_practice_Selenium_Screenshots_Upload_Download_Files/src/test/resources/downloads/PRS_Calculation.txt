@@ -1,0 +1,25 @@
+How long file took to process
+gatewaynotificationrecdatetime
+downloadstartdatetime-gatewaynotificationrecdatetime=queu time
+total_processtime=notificationsenddatetime-gatewaynotificationrecieveddatetime
+actualtimewithoutdelay=toaltimeprocesstime-queu time
+
+27th jan to till date one cvfile 
+CV_722010_1012023249  stagging
+
+21e58aeb-9460-48f1-8774-57a6efd8faa7 
+
+RahulVerma:
+
+installation : 4240(6 months)
+
+
+pse starts - 2/2/2023  7:31:55 AM
+iot start time - February 2nd 2023, 12:51:44.755
+prs scrubbing start time - February 2nd 2023, 13:02:18.196
+Notification to asp time - February 2nd 2023, 13:28:43.595	
+
+filesiize ~= 100 mb another queue 
+so based on the size we have queue
+file name validation 
+file size validation

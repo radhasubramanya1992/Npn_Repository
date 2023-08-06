@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Radha_npn_practice_Java_Exceptions/src/CheckedExceptionPractice.java&apos; to &apos;CheckedExceptionPractice1.java&apos;" description="Rename resource &apos;CheckedExceptionPractice.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/CheckedExceptionPractice.java" name="CheckedExceptionPractice1.java" stamp="1675836141588" updateReferences="true"/>
+</session>

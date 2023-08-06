@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-07T12:11:34 IST" name="Default suite" finished-at="2023-06-07T12:11:35 IST" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2023-06-07T12:11:34 IST" name="Default test" finished-at="2023-06-07T12:11:35 IST" duration-ms="40">
+      <class name="T01_CopyConstructorEx1">
+        <test-method signature="print()[pri:0, instance:T01_CopyConstructorEx1@6b927fb]" started-at="2023-06-07T12:11:34 IST" name="print" finished-at="2023-06-07T12:11:34 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+      </class> <!-- T01_CopyConstructorEx1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

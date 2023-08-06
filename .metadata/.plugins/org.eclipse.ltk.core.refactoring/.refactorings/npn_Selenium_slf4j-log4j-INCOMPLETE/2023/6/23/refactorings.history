@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;npn_Selenium_slf4j-log4j-INCOMPLETE/src/test/java/TestingJavaConcept.java&apos; to &apos;CopyConstructorExample1.java&apos;" description="Rename resource &apos;TestingJavaConcept.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/TestingJavaConcept.java" name="CopyConstructorExample1.java" stamp="1686119334794" updateReferences="true"/>
+</session>

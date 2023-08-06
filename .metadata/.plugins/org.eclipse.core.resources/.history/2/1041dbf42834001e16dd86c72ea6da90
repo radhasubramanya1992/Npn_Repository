@@ -1,0 +1,9 @@
+package npn_API_Rest_Assured.post;
+
+public class GoRest_Post 
+{
+public void testGoRestPost()
+{
+	
+}
+}

@@ -1,0 +1,11 @@
+package npn_API_Rest_Assured.get;
+//static import of rest assured
+import static io.restassured.RestAssured.*;
+public class GoRest_GET 
+{
+public void testGoRestGet()
+{
+	baseURI = "https://reqres.in";
+	basePath = "/api/users";
+}
+}

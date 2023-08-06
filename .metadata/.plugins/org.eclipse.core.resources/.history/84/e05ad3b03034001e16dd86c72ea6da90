@@ -1,0 +1,39 @@
+package npn_API_Rest_Assured.post;
+
+import static io.restassured.RestAssured.basePath;
+import static io.restassured.RestAssured.baseURI;
+import static io.restassured.RestAssured.given;
+
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
+import io.restassured.http.ContentType;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+
+public class GoRest_Post 
+{
+public void testGoRestPost() throws IOException
+{
+	baseURI = "https://gorest.co.in/";
+	basePath = "/public/v2/users";
+	
+	String postData = new String(Files.readAllBytes(Paths.get(System.getProperty("user.dir")
+			+File.separator+"src"
+			+File.separator+"test"
+			+File.separator+"resources"
+			+File.separator+"NewUserData.json")));
+	
+	RequestSpecification request = given().header("Authorization","Bearer fb4d36857aae1f1fb2b7ecd9cc115b528a320034f72a9a227ec400bbb291f803")
+	.contentType(ContentType.JSON)
+	.body(postData)
+	.log()
+	.all();
+	
+	Response response = request.post();
+	
+	response.then().log().all();
+}
+}

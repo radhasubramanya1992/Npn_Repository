@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Pradeep-BDD-Cucumber/Comments&apos; to &apos;IMPORTANT-comments&apos;" description="Rename resource &apos;Comments&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Comments" name="IMPORTANT-comments" stamp="1691312722737" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Radha_npn_practice_Selenium_Synchronization/src/test/java/WebDriverWait.java&apos; to &apos;WebDriverWaitExample.java&apos;" description="Rename resource &apos;WebDriverWait.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/WebDriverWait.java" name="WebDriverWaitExample.java" stamp="1680275139375" updateReferences="true"/>
+</session>

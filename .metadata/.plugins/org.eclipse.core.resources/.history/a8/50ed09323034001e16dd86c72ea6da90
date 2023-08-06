@@ -1,0 +1,13 @@
+package npn_API_Rest_Assured.post;
+
+import static io.restassured.RestAssured.basePath;
+import static io.restassured.RestAssured.baseURI;
+
+public class GoRest_Post 
+{
+public void testGoRestPost()
+{
+	baseURI = "https://gorest.co.in/";
+	basePath = "/public/v2/users";
+}
+}

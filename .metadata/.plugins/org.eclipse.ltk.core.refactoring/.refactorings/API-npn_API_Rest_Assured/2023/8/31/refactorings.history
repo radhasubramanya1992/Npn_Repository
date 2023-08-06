@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;npn_API_Rest_Assured/src/test/java/npn_API_Rest_Assured/put&apos; to &apos;update&apos;" description="Rename resource &apos;put&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/npn_API_Rest_Assured/put" name="update" stamp="1691215624426" updateReferences="true"/>
+</session>

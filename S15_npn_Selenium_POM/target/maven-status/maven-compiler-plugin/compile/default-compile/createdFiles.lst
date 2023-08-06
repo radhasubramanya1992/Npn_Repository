@@ -1,0 +1,4 @@
+utils\TestUtils.class
+pages\IndexPage.class
+pages\LoginPage.class
+pages\ManageRoomPage.class

@@ -1,0 +1,6 @@
+[DEBUG] 2023-06-03 13:35:51 [AsyncHttpClient-1-2] Brotli:38 - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-06-03 13:35:51 [main] ThreadLocalRandom:214 - -Dio.netty.initialSeedUniquifier: 0xb80afabd77b5c041
+[INFO ] 2023-06-03 13:35:51 [main] LoggingwithDriver:19 - driver instatiated 
+[INFO ] 2023-06-03 13:35:51 [main] LoggingwithDriver:21 - maximized
+[DEBUG] 2023-06-03 13:35:51 [main] LoggingwithDriver:22 - about to launch facebook
+[INFO ] 2023-06-03 13:35:52 [main] LoggingwithDriver:24 - Facebook launched

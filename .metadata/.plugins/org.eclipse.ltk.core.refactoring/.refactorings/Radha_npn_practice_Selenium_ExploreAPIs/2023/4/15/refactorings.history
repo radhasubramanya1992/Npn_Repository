@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Radha_npn_practice_Selenium_ExploreAPIs/src/test/java/FaamesExample.java&apos; to &apos;FramesExample.java&apos;" description="Rename resource &apos;FaamesExample.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/FaamesExample.java" name="FramesExample.java" stamp="1681103230750" updateReferences="true"/>
+</session>

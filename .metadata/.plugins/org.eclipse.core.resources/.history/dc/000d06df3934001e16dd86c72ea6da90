@@ -1,0 +1,40 @@
+package npn_API_Rest_Assured.get;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+//static import of rest assured
+import static io.restassured.RestAssured.*;
+
+import java.util.List;
+
+import io.restassured.http.ContentType;
+import io.restassured.path.json.JsonPath;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+
+public class ThirdExample 
+{
+@Test
+public void testOne()
+{
+	baseURI = "https://reqres.in";
+	basePath = "/api/users";
+	
+	RequestSpecification request = given().auth()
+			.oauth2("Bearer b061de78711ef212d967301f3c2047c311ba331a1532c43a56050ee85fe6720d")
+			.param("page", 2).log().all();
+	
+	Response response = request.get();
+			
+	response.then().assertThat().statusCode(200).log().body();
+	
+	JsonPath json = response.jsonPath();
+	
+	JsonPath jsonBody = response.getBody().jsonPath();
+	
+	int pageValue = jsonBody.getInt("page");
+	System.out.println("The page value is :: "+pageValue);
+	Assert.assertEquals(pageValue, 2);
+}
+}

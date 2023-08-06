@@ -1,0 +1,10 @@
+[DEBUG] 2023-06-03 12:18:37 [main] SimpleTest$1:14 - This is debug log
+[INFO ] 2023-06-03 12:18:37 [main] SimpleTest$1:15 - This is info log
+[WARN ] 2023-06-03 12:18:37 [main] SimpleTest$1:16 - This is warn log
+[ERROR] 2023-06-03 12:18:37 [main] SimpleTest$1:17 - This is error log
+[FATAL] 2023-06-03 12:18:37 [main] SimpleTest$1:18 - This is fatal log
+[DEBUG] 2023-06-03 12:19:04 [main] SimpleTest$1:14 - This is debug log
+[INFO ] 2023-06-03 12:19:04 [main] SimpleTest$1:15 - This is info log
+[WARN ] 2023-06-03 12:19:04 [main] SimpleTest$1:16 - This is warn log
+[ERROR] 2023-06-03 12:19:04 [main] SimpleTest$1:17 - This is error log
+[FATAL] 2023-06-03 12:19:04 [main] SimpleTest$1:18 - This is fatal log

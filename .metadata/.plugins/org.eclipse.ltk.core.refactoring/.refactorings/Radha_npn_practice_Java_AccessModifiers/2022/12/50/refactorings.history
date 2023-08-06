@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Radha_npn_practice_Java_AccessModifiers/src/Package1&apos; to &apos;package1&apos;" description="Rename resource &apos;Package1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Package1" name="package1" stamp="1670479641383" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Radha_npn_practice_Java_AccessModifiers/src/Package2&apos; to &apos;package2&apos;" description="Rename resource &apos;Package2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Package2" name="package2" stamp="1670479646320" updateReferences="true"/>
+</session>

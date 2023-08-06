@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Radha_npn_practice_Selenium_WebControls/src/test/java/Simple_Interactions/TableExmp.java&apos; to &apos;TableExample.java&apos;" description="Rename resource &apos;TableExmp.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/Simple_Interactions/TableExmp.java" name="TableExample.java" stamp="1679415502025" updateReferences="true"/>
+</session>

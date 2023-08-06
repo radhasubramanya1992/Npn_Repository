@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ClassObject/src/com/npn/practice/CopyConstructor.java&apos; to &apos;CopyConstructorExample.java&apos;" description="Rename resource &apos;CopyConstructor.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/npn/practice/CopyConstructor.java" name="CopyConstructorExample.java" stamp="1667575000729" updateReferences="true"/>
+</session>

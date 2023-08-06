@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Selenium_npn\Workspace\npn_Selenium_Screenshots_Upload_DownloadFile"/>
+			<item value="D:\Selenium_npn\Workspace\npn_Selenium_POM"/>
+			<item value="D:\Selenium_npn\Workspace\npn_Selenium_SampleSelenium"/>
+			<item value="D:\Selenium_npn\Workspace\npn_Sourcecode_Cucumber_BDD"/>
+			<item value="D:\Selenium_npn\Workspace\npn_Selenium_locators"/>
+			<item value="D:\Selenium_npn\Workspace\Radha_npn_practice_Selenium_WebControls"/>
+			<item value="D:\Selenium_npn\Workspace\npn_Selenium_DataDriver_Framework\src\test\resources\test.properties"/>
+			<item value="D:\Selenium_npn\Workspace\npn_Selenium_explore_apis\src\test\java\npn_Selenium_explore_apis\TestFrames.java"/>
+			<item value="D:\Selenium_npn\Workspace\npn_selenium-webcontrols\src\test\java\NormalDropDownExample.java"/>
+			<item value="D:\Selenium_npn\Workspace\npn_java-object-Oriented-programming\src\com\np\training\inheritence\FirstClass.java"/>
+			<item value="D:\Selenium_npn\Workspace\Radha_npn_practice_Java_Collections"/>
+			<item value="D:\Selenium_npn\Workspace\npn_java_collections"/>
+			<item value="D:\Selenium_npn\Workspace\npn_java_collections\src\main\java\list\ArrayListExample.java"/>
+			<item value="D:\Selenium_npn\Workspace\sample_maven"/>
+			<item value="D:\Selenium_npn\Workspace\SampleSelenium\src\SampleBrowser.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.npn.practice"/>
+			<item value="com.npn.training"/>
+			<item value="com.npn.selenium"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="npn_API_Rest_Assured"/>
+			<item value="npn_Selenium_log4j1.0"/>
+			<item value="slf4j-log4j"/>
+			<item value="npn_Selenium_SeleniumDeepDive"/>
+			<item value="npn_Selenium_Grid"/>
+			<item value="npn_Selenium_POM"/>
+			<item value="Radha_npn_practice_Selenium_Screenshots_Upload_Download_Files"/>
+			<item value="npn_Selenium_Screenshots"/>
+			<item value="Radha_npn_practice_Selenium_TestNG"/>
+			<item value="Radha_npn_practice_Selenium_DataDrivenFramework"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

@@ -1,0 +1,6 @@
+1685770545915	Rename resource 'npn_Selenium_log4j1.0'
+1685770909392	Rename resource 'npn_Selenium_log4j1.7'
+1685774929621	Delete resource 'npn_Selenium_log4j1.x/$(log)'
+1685779878494	Rename resource 'npn_Selenium_slf4j-log4j'
+1685779898699	Rename resource 'npn_Selenium_slf4j-log4j-INCOMPLETE'
+1685779916354	Rename resource 'npn_Selenium_slf4j-log4j-Incomplete'

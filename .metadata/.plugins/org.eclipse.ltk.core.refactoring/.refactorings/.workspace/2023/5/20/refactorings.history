@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;page-object-model&apos; to &apos;pradpage-object-model&apos;" description="Rename resource &apos;page-object-model&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/page-object-model" name="pradpage-object-model" stamp="1684475266419" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;pradpage-object-model&apos; to &apos;Pradeep - page-object-model&apos;" description="Rename resource &apos;pradpage-object-model&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/pradpage-object-model" name="Pradeep - page-object-model" stamp="1684475281862" updateReferences="true"/>
+</session>
